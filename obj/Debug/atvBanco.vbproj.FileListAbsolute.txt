@@ -1,0 +1,13 @@
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\bin\Debug\atvBanco.exe.config
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\bin\Debug\atvBanco.exe
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\bin\Debug\atvBanco.pdb
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\bin\Debug\atvBanco.xml
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.vbproj.AssemblyReference.cache
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.vbproj.SuggestedBindingRedirects.cache
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.Form1.resources
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.Resources.resources
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.vbproj.GenerateResource.cache
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.vbproj.CoreCompileInputs.cache
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.exe
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.xml
+D:\Users\danys\Desktop\DSM\DSM 3º semestre\Tecnicas de Programação 2\projeto8\Banco\atvBanco\atvBanco\obj\Debug\atvBanco.pdb
