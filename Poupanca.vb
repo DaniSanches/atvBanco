@@ -4,9 +4,9 @@
     Private aniversario As String
 
 
-    Public Sub New(conta As Integer, saldo As Decimal, nome As String, aniversario As String)
+    Public Sub New(conta As Integer, nome As String, saldo As Decimal, aniversario As String)
         ' como essa  classe é herdeira, eu  vou  informar em  Mybase que as  informações são da classe  pai
-        MyBase.New(conta, saldo, nome)
+        MyBase.New(conta, nome, saldo)
         Me.aniversario = aniversario
 
 

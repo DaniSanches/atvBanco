@@ -6,10 +6,13 @@ Public Class Conta
     Private saldo As Decimal
     Private nome As String
 
-    Public Sub New(conta As Integer, saldo As Decimal, nome As String)
+
+
+    Public Sub New(conta As Integer, nome As String, saldo As Decimal)
         Me.conta = conta
-        Me.saldo = saldo
         Me.nome = nome
+        Me.saldo = saldo
+
     End Sub
 
 

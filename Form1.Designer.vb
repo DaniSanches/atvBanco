@@ -141,7 +141,7 @@ Partial Class Form1
         Me.btnCriar.Name = "btnCriar"
         Me.btnCriar.Size = New System.Drawing.Size(75, 23)
         Me.btnCriar.TabIndex = 12
-        Me.btnCriar.Text = "Criar"
+        Me.btnCriar.Text = "&Criar"
         Me.btnCriar.UseVisualStyleBackColor = True
         '
         'btnDepositar
@@ -150,7 +150,7 @@ Partial Class Form1
         Me.btnDepositar.Name = "btnDepositar"
         Me.btnDepositar.Size = New System.Drawing.Size(75, 23)
         Me.btnDepositar.TabIndex = 13
-        Me.btnDepositar.Text = "Depositar"
+        Me.btnDepositar.Text = "&Depositar"
         Me.btnDepositar.UseVisualStyleBackColor = True
         '
         'btnSacar
@@ -159,7 +159,7 @@ Partial Class Form1
         Me.btnSacar.Name = "btnSacar"
         Me.btnSacar.Size = New System.Drawing.Size(75, 23)
         Me.btnSacar.TabIndex = 14
-        Me.btnSacar.Text = "Sacar"
+        Me.btnSacar.Text = "&Sacar"
         Me.btnSacar.UseVisualStyleBackColor = True
         '
         'Form1
