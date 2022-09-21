@@ -12,18 +12,21 @@
 
     End Sub
 
-    Private Sub coversor(sender As Object, e As EventArgs) Handles btnDepositar.Click
-        valor = Decimal.Parse(TxtValor.Text)
-        quantia = Decimal.Parse(TxtSaldo.Text)
-    End Sub
+
 
     Private Sub btnDepositar_Click(sender As Object, e As EventArgs) Handles btnDepositar.Click
+        valor = Decimal.Parse(TxtValor.Text)
+        quantia = Decimal.Parse(TxtSaldo.Text)
         saldoTotal = quantia + valor
         txtSaldoTotal.Text = saldoTotal
+        TxtSaldo.Text = saldoTotal
     End Sub
 
     Private Sub btnSacar_Click(sender As Object, e As EventArgs) Handles btnSacar.Click
+        valor = Decimal.Parse(TxtValor.Text)
+        quantia = Decimal.Parse(TxtSaldo.Text)
         saldoTotal = quantia - valor
         txtSaldoTotal.Text = saldoTotal
+        TxtSaldo.Text = saldoTotal
     End Sub
 End Class
